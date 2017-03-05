@@ -3,6 +3,7 @@
 #include<stdlib.h>
 
 void multi(int x,int z){
+	int song;
 }
 void sum(int a,int b){
 	printf("a+b");
