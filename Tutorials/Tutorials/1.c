@@ -2,6 +2,10 @@
 #include<string.h>
 #include<stdlib.h>
 
+void sum(int a,int b){
+	printf("a+b");
+}
+
 int main(){
 	char song[] = "JeongEun";
 	
