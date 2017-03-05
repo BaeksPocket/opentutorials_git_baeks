@@ -8,7 +8,7 @@ void sum(int a,int b){
 int sum_value(int a, int b){
 	return a+b;
 }
-
+int jeong_eun(char a){}
 
 int main(){
 	char song[] = "JeongEun";
