@@ -4,6 +4,10 @@ void sum(int x , int y){
 	z=x+y;
 }
 
+int sum_value(int a, int b){
+	return a+b;
+}
+
 int main(){
 	int x,y;//변수추가 
 
