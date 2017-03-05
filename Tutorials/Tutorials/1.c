@@ -20,6 +20,6 @@ int main(){
 	printf(" try tutorial \n");
 	printf("chungdol");
 	printf("chungdol complete");
-
+	printf("multithread");
 
 
