@@ -2,6 +2,8 @@
 #include<string.h>
 #include<stdlib.h>
 
+void multi(int x,int z){
+}
 void sum(int a,int b){
 	printf("a+b");
 }
