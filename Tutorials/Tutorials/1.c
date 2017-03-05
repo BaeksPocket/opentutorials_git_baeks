@@ -22,5 +22,6 @@ int main(){
 	printf("chungdol complete");
 	printf("multithread");
 	printf("push");
+	printf("pull");
 
 
