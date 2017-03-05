@@ -19,6 +19,6 @@ int main(){
 
 	printf(" try tutorial \n");
 	printf("chungdol");
-
+	printf("multithread");
 
 
