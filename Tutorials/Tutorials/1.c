@@ -5,6 +5,10 @@
 void sum(int a,int b){
 	printf("a+b");
 }
+int sum_value(int a, int b){
+	return a+b;
+}
+
 
 int main(){
 	char song[] = "JeongEun";
@@ -16,6 +20,5 @@ int main(){
 	printf(" try tutorial \n");
 
 
-	
-	return 0;
-}
+
+
